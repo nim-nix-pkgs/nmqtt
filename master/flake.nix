@@ -11,6 +11,7 @@
   inputs.src-nmqtt-master.ref   = "refs/heads/master";
   inputs.src-nmqtt-master.owner = "zevv";
   inputs.src-nmqtt-master.repo  = "nmqtt";
+  inputs.src-nmqtt-master.dir   = "";
   inputs.src-nmqtt-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";

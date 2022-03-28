@@ -11,6 +11,7 @@
   inputs.src-nmqtt-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-nmqtt-0_1_0.owner = "zevv";
   inputs.src-nmqtt-0_1_0.repo  = "nmqtt";
+  inputs.src-nmqtt-0_1_0.dir   = "";
   inputs.src-nmqtt-0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
