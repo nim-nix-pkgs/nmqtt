@@ -11,7 +11,6 @@
   inputs.src-nmqtt-v1_0_0.ref   = "refs/tags/v1.0.0";
   inputs.src-nmqtt-v1_0_0.owner = "zevv";
   inputs.src-nmqtt-v1_0_0.repo  = "nmqtt";
-  inputs.src-nmqtt-v1_0_0.dir   = "";
   inputs.src-nmqtt-v1_0_0.type  = "github";
   
   inputs."bcrypt".owner = "nim-nix-pkgs";
